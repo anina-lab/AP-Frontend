@@ -1,0 +1,9 @@
+.tabla {
+    padding-left: 0px;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+}
